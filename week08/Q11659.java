@@ -8,12 +8,11 @@ import java.util.Scanner;
  * https://www.acmicpc.net/problem/11659
  */
 public class Q11659 {
+    /**
+     * 메모리 260252 KB
+     * 시간 2096 ms
+     */
     public static void main(String[] args) {
-        /*
-         * 메모리 260252KB
-         * 시간 2096ms
-         * 코드길이 779B
-         * */
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int m = sc.nextInt();
